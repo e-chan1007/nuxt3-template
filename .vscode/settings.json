@@ -5,6 +5,5 @@
 		"source.fixAll.biome": "explicit",
 		"source.organizeImports.biome": "explicit"
 	},
-	"typescript.tsserver.log": "verbose",
 	"typescript.tsdk": "node_modules/typescript/lib"
 }
